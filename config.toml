@@ -1,0 +1,64 @@
+baseURL = 'https://baublog.orhanakkaya.de/'
+languageCode = 'de-de'
+title = ''
+theme = "papermod"
+
+[params.profileMode]
+enabled = true
+title = "Orhan Akkaya"
+subtitle = "ERP & eCommerce Consulting"
+#imageUrl = "https://baublog.orhanakkaya.de/images/ws.png"
+imageTitle = "Orhan_Akkaya"
+imageWidth = 150
+imageHeight = 150
+
+#HeaderMenu
+    [[menu.main]]
+    identifier = "baublog"
+    name = "baublog"
+    url = "/baublog/"
+    weight = 10
+
+    [[menu.main]]
+    identifier = "services"
+    name = "services"
+    url = "/services/"
+    weight = 20
+
+    [[menu.main]]
+    identifier = "projects"
+    name = "projects"
+    url = "/projects/"
+    weight = 30
+
+    [[menu.main]]
+    identifier = "home"
+    name = "home"
+    url = "/"
+    weight = 90
+
+#Buttons
+#    [[params.profileMode.buttons]]
+#    name = "Kontakt"
+#    url = "mailto:mail@webminers.de"
+
+#    [[params.profileMode.buttons]]
+#    name = "Impressum"
+#    url = "https://www.orhanakkaya.de/impressum"
+
+#SocialMedia
+    [[params.socialIcons]]
+    name = "Twitter"
+    url = "https://twitter.com/hanmeran"
+
+    [[params.socialIcons]]
+    name = "Instagram"
+    url = "http://instagram.com/hanmeran"
+
+    [[params.socialIcons]]
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/orhanakkaya"
+
+    [[params.socialIcons]]
+    name = "Github"
+    url = "https://github.com/hanmeran"
