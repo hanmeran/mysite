@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Baublogs on </title>
-    <link>https://baublog.orhanakkaya.de/baublog/</link>
+    <link>https://orhanakkaya.de/baublog/</link>
     <description>Recent content in Baublogs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
-    <lastBuildDate>Mon, 16 Aug 2021 11:52:25 +0200</lastBuildDate><atom:link href="https://baublog.orhanakkaya.de/baublog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Aug 2021 11:52:25 +0200</lastBuildDate><atom:link href="https://orhanakkaya.de/baublog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Das Grundstück</title>
-      <link>https://baublog.orhanakkaya.de/baublog/das-grundstuek/</link>
+      <link>https://orhanakkaya.de/baublog/das-grundstueck/</link>
       <pubDate>Mon, 16 Aug 2021 11:52:25 +0200</pubDate>
       
-      <guid>https://baublog.orhanakkaya.de/baublog/das-grundstuek/</guid>
-      <description></description>
+      <guid>https://orhanakkaya.de/baublog/das-grundstueck/</guid>
+      <description>in process &amp;hellip;</description>
     </item>
     
     <item>
       <title>Die Idee</title>
-      <link>https://baublog.orhanakkaya.de/baublog/die-idee/</link>
-      <pubDate>Mon, 16 Aug 2021 11:52:25 +0200</pubDate>
+      <link>https://orhanakkaya.de/baublog/die-idee/</link>
+      <pubDate>Wed, 01 Jan 2020 11:52:25 +0200</pubDate>
       
-      <guid>https://baublog.orhanakkaya.de/baublog/die-idee/</guid>
-      <description></description>
+      <guid>https://orhanakkaya.de/baublog/die-idee/</guid>
+      <description>in process &amp;hellip;</description>
     </item>
     
   </channel>
