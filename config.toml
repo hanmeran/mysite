@@ -1,7 +1,10 @@
-baseURL = 'https://baublog.orhanakkaya.de/'
+baseURL = 'https://orhanakkaya.de/'
 languageCode = 'de-de'
 title = ''
 theme = "papermod"
+
+#Tracking
+googleAnalytics = 'G-DN2MGG0XBB'
 
 [params.profileMode]
 enabled = true
