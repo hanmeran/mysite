@@ -2,28 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://orhanakkaya.de/baublog/</loc>
+    <loc>https://orhanakkaya.de/categories/cat1/</loc>
     <lastmod>2021-08-16T11:52:25+02:00</lastmod>
   </url><url>
-    <loc>https://orhanakkaya.de/baublog/das-grundstueck/</loc>
+    <loc>https://orhanakkaya.de/categories/cat3/</loc>
+    <lastmod>2021-08-16T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/categories/cat4/</loc>
+    <lastmod>2021-08-16T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/categories/</loc>
+    <lastmod>2021-08-16T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/projects/baudok/das-grundstueck/</loc>
+    <lastmod>2021-08-16T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/services/ecommerce/example1/</loc>
+    <lastmod>2021-08-16T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/services/web/example1/</loc>
     <lastmod>2021-08-16T11:52:25+02:00</lastmod>
   </url><url>
     <loc>https://orhanakkaya.de/</loc>
     <lastmod>2021-08-16T11:52:25+02:00</lastmod>
   </url><url>
-    <loc>https://orhanakkaya.de/baublog/die-idee/</loc>
+    <loc>https://orhanakkaya.de/projects/baudok/</loc>
     <lastmod>2020-01-01T11:52:25+02:00</lastmod>
   </url><url>
-    <loc>https://orhanakkaya.de/categories/</loc>
+    <loc>https://orhanakkaya.de/categories/cat2/</loc>
+    <lastmod>2020-01-01T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/projects/baudok/die-idee/</loc>
+    <lastmod>2020-01-01T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/services/ecommerce/example2/</loc>
+    <lastmod>2020-01-01T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/services/web/example2/</loc>
+    <lastmod>2020-01-01T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/projects/posts/</loc>
+    <lastmod>2020-01-01T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/projects/</loc>
+    <lastmod>2020-01-01T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/services/</loc>
+    <lastmod>2020-01-01T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/services/web/</loc>
+    <lastmod>2020-01-01T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/services/ecommerce/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://orhanakkaya.de/privacy/</loc>
   </url><url>
+    <loc>https://orhanakkaya.de/g-dn2mgg0xbb/</loc>
+  </url><url>
     <loc>https://orhanakkaya.de/imprint/</loc>
-  </url><url>
-    <loc>https://orhanakkaya.de/projects/</loc>
-  </url><url>
-    <loc>https://orhanakkaya.de/services/</loc>
-  </url><url>
-    <loc>https://orhanakkaya.de/tags/</loc>
   </url>
 </urlset>

@@ -2,6 +2,8 @@ baseURL = 'https://orhanakkaya.de/'
 languageCode = 'de-de'
 title = 'WEBMINERS - eCommerce from Pott'
 theme = "papermod"
+[taxonomies]
+    category = "categories"
 
 #Tracking
 googleAnalytics = 'G-DN2MGG0XBB'
@@ -16,23 +18,18 @@ imageWidth = 150
 imageHeight = 150
 
 #HeaderMenu
-    [[menu.main]]
-    identifier = "baublog"
-    name = "baublog"
-    url = "/baublog/"
-    weight = 10
 
     [[menu.main]]
     identifier = "services"
     name = "services"
     url = "/services/"
-    weight = 20
+    weight = 10
 
     [[menu.main]]
     identifier = "projects"
     name = "projects"
     url = "/projects/"
-    weight = 30
+    weight = 20
 
     [[menu.main]]
     identifier = "home"
