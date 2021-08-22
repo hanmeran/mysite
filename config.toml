@@ -1,6 +1,6 @@
 baseURL = 'https://orhanakkaya.de/'
 languageCode = 'de-de'
-title = ''
+title = 'WEBMINERS - eCommerce from Pott'
 theme = "papermod"
 
 #Tracking
@@ -8,10 +8,10 @@ googleAnalytics = 'G-DN2MGG0XBB'
 
 [params.profileMode]
 enabled = true
-title = "Orhan Akkaya"
-subtitle = "ERP & eCommerce Consulting"
+title = "WEBMINERS"
+subtitle = "eCommerce from Pott"
 #imageUrl = "https://baublog.orhanakkaya.de/images/ws.png"
-imageTitle = "Orhan_Akkaya"
+imageTitle = "webminers"
 imageWidth = 150
 imageHeight = 150
 
@@ -42,22 +42,10 @@ imageHeight = 150
 
 #Buttons
 #    [[params.profileMode.buttons]]
-#    name = "Kontakt"
-#    url = "mailto:mail@webminers.de"
-
-#    [[params.profileMode.buttons]]
-#    name = "Impressum"
-#    url = "https://www.orhanakkaya.de/impressum"
+#    name = "Posts"
+#    url = "/posts"
 
 #SocialMedia
-    [[params.socialIcons]]
-    name = "Twitter"
-    url = "https://twitter.com/hanmeran"
-
-    [[params.socialIcons]]
-    name = "Instagram"
-    url = "http://instagram.com/hanmeran"
-
     [[params.socialIcons]]
     name = "LinkedIn"
     url = "https://www.linkedin.com/in/orhanakkaya"
