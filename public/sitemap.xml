@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://orhanakkaya.de/</loc>
-    <lastmod>2021-08-16T11:52:25+02:00</lastmod>
-  </url><url>
     <loc>https://orhanakkaya.de/baublog/</loc>
     <lastmod>2021-08-16T11:52:25+02:00</lastmod>
   </url><url>
     <loc>https://orhanakkaya.de/baublog/das-grundstueck/</loc>
+    <lastmod>2021-08-16T11:52:25+02:00</lastmod>
+  </url><url>
+    <loc>https://orhanakkaya.de/</loc>
     <lastmod>2021-08-16T11:52:25+02:00</lastmod>
   </url><url>
     <loc>https://orhanakkaya.de/baublog/die-idee/</loc>
